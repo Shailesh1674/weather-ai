@@ -41,11 +41,3 @@ GOOGLE_CLIENT_SECRET=your_google_secret
    npm run dev
    ```
 4. Open [http://localhost:3001](http://localhost:3001)
-
-## Deployment (Vercel) 🌍
-
-This Next.js app is optimized for seamless deployment on Vercel.
-1. Push your code to a GitHub/GitLab repository.
-2. Go to your Vercel Dashboard, click **Add New...** > **Project**, and select the repo.
-3. Once imported, click **Environment Variables** and securely paste all keys from your `.env.local`.
-4. Hit **Deploy**. Vercel will build and launch your production-ready Weather SaaS.
